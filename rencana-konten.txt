@@ -2,4 +2,5 @@ RENCANA KONTEN
 
 -Javascript
 -PHP framework
+ ^Laravel
 -MYSQL
