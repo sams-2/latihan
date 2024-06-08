@@ -1,5 +1,7 @@
 RENCANA KONTEN 
 
 -Javascript
+ ^ vue.js
+ ^ react.js
 -PHP framework
 -MYSQL
